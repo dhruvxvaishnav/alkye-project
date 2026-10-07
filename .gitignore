@@ -1,0 +1,17 @@
+frontend/node_modules/
+frontend/dist/
+backend/target/
+backend/*.db
+backend/*.db-shm
+backend/*.db-wal
+backend/dev-emails.log
+.env
+.DS_Store
+
+backend/dev-events.log
+
+.env.*
+!.env.example
+backend/*.log*
+frontend/coverage/
+backend/coverage/
